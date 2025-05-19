@@ -1,0 +1,18 @@
+.user-type-toggle {
+    margin-bottom: 15px;
+    padding: 10px;
+    background: #f5f5f5;
+    border-radius: 5px;
+}
+
+.user-type-toggle label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+}
+
+.user-type-toggle input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+}
